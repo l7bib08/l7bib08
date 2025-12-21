@@ -10,8 +10,6 @@
 
 - C programming
 - Git & GitHub
-- Python for data analysis
-- Basics of AI & Machine Learning
 
 ---
 
@@ -21,13 +19,13 @@
 - Python
 - Git / GitHub
 - VS Code
-- Excel
 
 ---
 
 ## My Projects
 
-- Chess in C 
+- Chess in C
+- Pac-Man in C 
 
 ---
 
