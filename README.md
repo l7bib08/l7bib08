@@ -1,6 +1,6 @@
 # Hi I'm MOUAD LAHBIB ARBAOUI
 
-  Software Engineering Student  
+  Software Engineer Student  
   Interested in Data, AI, and Digital Transformation  
   Learning Data and Software Development  
 
