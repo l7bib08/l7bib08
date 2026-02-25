@@ -1,12 +1,12 @@
 # I'm MOUAD LAHBIB ARBAOUI
 
-🎓 Engineering Student in Information Systems & Digital Transformation  
-💻 Interested in Software Engineering, Data Engineering & AI  
-📚 Currently learning and building projects step by step  
+Engineering Student in Information Systems & Digital Transformation  
+Interested in Software Engineering, Data Engineering & AI  
+Currently learning and building projects step by step  
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am an engineering student who is currently understanding how software and systems work internally.
 
@@ -35,9 +35,9 @@ I started with C programming and system-level projects, and I am now learning mo
 
 ---
 
-## 📂 Projects
+## Projects
 
-### 🖥 MiniOS – CPU Scheduling Simulator (C)
+### MiniOS – CPU Scheduling Simulator (C)
 
 A modular operating system simulator built in C to understand how different CPU scheduling algorithms work.
 
@@ -53,7 +53,7 @@ Includes:
 
 ---
 
-### 🎮 Pac-Man in C
+### Pac-Man in C
 
 A simple Pac-Man style game built in C to practice:
 - Game logic
@@ -62,13 +62,8 @@ A simple Pac-Man style game built in C to practice:
 
 ---
 
-### 🌹 Online Rose Shop (Web Project)
+### Online Rose Shop (Web Project)
 
 A small e-commerce website project to practice:
 - Frontend basics
 
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/l7bib08
